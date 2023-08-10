@@ -35,6 +35,6 @@ for i in range(0, df.shape[0]):
 
 # 데이터프레임 생성
 Location = pd.DataFrame({
-    'Detailed_Locatio': loc_list
+    'Detailed_Location': loc_list
 })
 Location.to_csv(path + 'jobplanet_Detailed_Location.csv', index=False, encoding='utf-8-sig')
