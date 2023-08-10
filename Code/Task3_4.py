@@ -55,7 +55,12 @@ def Wanted(link_key):
 
     # webdriver 실행
     driver = webdriver.Chrome()
-    driver.get('https://www.wanted.co.kr/search?query=' + f'{link_key}')
+    driver.get(f'https://www.wanted.co.kr/search?query={link_key}')
+    driver.implicitly_wait(2)
+    
+    # 포지션 선택
+    elem = driver.find_element(By.XPATH, '//*[@id="search_tab_position"]')
+    elem.click()
     driver.implicitly_wait(2)
     scroll(driver)
 
@@ -72,23 +77,23 @@ def Wanted(link_key):
     Com = [] # 회사
     Loc = [] # 위치
     
-    search = driver.find_element(By.XPATH, '//*[@id="__next"]/div[4]/div/div[2]/div[3]/h2/span').text # 공고 개수
+    search = driver.find_element(By.XPATH, '//*[@id="search_tabpanel_position"]/div/div[1]/h2/span').text # 공고 개수
     for i in range(1, int(search)+1):
         try:
             # 링크
-            job_1 = driver.find_element(By.XPATH, f'//*[@id="__next"]/div[4]/div/div[2]/div[3]/div[3]/div/div[1]/div[{i}]/a').get_attribute('href')
+            job_1 = driver.find_element(By.XPATH, f'//*[@id="search_tabpanel_position"]/div/div[4]/div[{i}]/a').get_attribute('href')
             Lin.append(job_1)
 
             # 타이틀
-            job_2 = driver.find_element(By.XPATH, f'//*[@id="__next"]/div[4]/div/div[2]/div[3]/div[3]/div/div[1]/div[{i}]/a/div[2]/strong').text
+            job_2 = driver.find_element(By.XPATH, f'//*[@id="search_tabpanel_position"]/div/div[4]/div[{i}]/a/div[2]/strong').text
             Tit.append(job_2)
 
             # 회사
-            job_3 = driver.find_element(By.XPATH, f'//*[@id="__next"]/div[4]/div/div[2]/div[3]/div[3]/div/div[1]/div[{i}]/a/div[2]/span[1]/span[1]').text
+            job_3 = driver.find_element(By.XPATH, f'//*[@id="search_tabpanel_position"]/div/div[4]/div[{i}]/a/div[2]/span[1]/span[1]').text
             Com.append(job_3)
 
             # 위치
-            job_4 = driver.find_element(By.XPATH, f'//*[@id="__next"]/div[4]/div/div[2]/div[3]/div[3]/div/div/div[{i}]/a/div[2]/span[1]/span[2]').text
+            job_4 = driver.find_element(By.XPATH, f'//*[@id="search_tabpanel_position"]/div/div[4]/div[{i}]/a/div[2]/span[1]/span[2]').text
             Loc.append(job_4)
         except Exception as e:
             print(e)
