@@ -1,0 +1,663 @@
+﻿Requirement
+"
+• Python을 이용한 Data Analysis Process 수행 가능자 (데이터 추출, 핸들링, EDA, Statistical Analysis, Data Mining, Report, Deployment 등 일련의 분석 모델 개발 프로젝트 수행)
+• Query 작성을 통해 필요 데이터에 대한 다양한 Manipulation (데이터 전처리, 분석 마트 구축 등)이 가능한 자
+• R을 활용한 데이터 전처리 및 분석모델 개발 가능자
+"
+"
+• 3년 이상의 데이터 모델링/분석 혹은 서빙 시스템 개발 경력이 있거나 그에 준하는 실력을 갖추신 분
+• Python, SQL, Spark, Hadoop 등을 사용하여 대용량 데이터로 모델링 하실 수 있는 분
+• 데이터를 활용한 알고리즘 및 머신러닝에 대한 수리적, 통계적 지식이 있는 분
+• 머신러닝 논문을 읽고 실제 서비스로 구현한 경험이 있는 분
+• 비즈니스 이슈를 해결하기 위해 데이터 기반으로 문제를 정의할 수 있는 분
+• 팀 플레이어로서 동료들과 함께 협력하여 문제를 해결해 나가시는 분
+• 데이터 엔지니어부터 세일즈까지 다양한 직군의 동료들과 원활하게 커뮤니케이션 가능한 분
+"
+"
+Here’s what you’ll be working on:
+[ You will work on various data science projects including ]
+• Data Analysis and research: analyzing a large dataset with queries and scripts, extracting valuable signals out of noise, and producing actionable insights into how we could complete and improve Moloco’s complex ML and bidding system.
+• Simulation and Modeling: validating and quantifying the efficiency and performance gain from hypotheses through rigorous simulation and modeling.
+• Experimentation and Causal Inference: developing a robust experiment design and metric framework, and providing reliable and unbiased insights for product and business decision making.
+
+[ As a ""Tech Lead Manager (TLM)"", you will also ]
+• Build and manage a team of talented data scientists with the ability to not only keep up with, but also pioneer, in this space.
+• Collaborate with leadership so that your team's work directly impacts company strategy and direction.
+• Communicate with other engineering teams to build the best mobile advertising platform in the world.
+• Working cross-functionally with business and technical teams to support campaign management and team communication
+
+QUALIFICATIONS
+[ Minimum Requirements ]
+• Master's degree in a quantitative discipline (e.g. Statistics, Operations Research, Bioinformatics, Economics, Computational Biology, Computer Science, Mathematics, Physics, Electrical Engineering, Industrial Engineering) or equivalent research experience.
+• 8+ years of work experience (industry or postgraduate) in data science related fields.
+• Distinctive problem-solving skills, good at articulating product questions, pulling data from large datasets and using statistics to arrive at a recommendation.
+• Excellent verbal and written communication skills, with ability to present information and analysis results effectively.
+• Ability to build positive relationships within DSA and with our stakeholders, and work effectively with cross-functional partners in a global company.
+• Statistics: must have strong knowledge and experience in experimental design, hypothesis testing, and various statistical analysis techniques such as regression or linear models.
+• Machine Learning: must have deep understanding of ML algorithms (i.e. deep learning, random forest, gradient boosted trees, k-means clustering, etc.) and its development, validation, and evaluation.
+• Programming: experience with Python, R or other scripting language, and database language (e.g. SQL) or data manipulation (e.g. Pandas, Dplyr) are required.
+• 2+ years of tech lead (TL) or tech lead manager (TLM) experience leading multiple multi-quarter data science projects, supervising data scientists while interacting with partner Eng, Biz, and Product stakeholders.
+
+"
+"
+• 통계학과, 수학, 데이터 분석 학과 등 관련 전공자
+• 관련 경력 1년 이상 또는 관련 분야 석사 졸업 이상
+"
+"
+· 데이터사이언티스트 경력 5년 이상
+· 석사(대학원) 이상 학위 소지자
+· Python, R 등 통계/분석 프로그램 능숙자
+· ML/DL에 대한 수학적 이해와 통계적 지식 보유자
+· 분석/예측 모델 알고리즘 관련 연구 경험
+"
+"
+• Master's degree in a quantitative discipline (e.g. Statistics, Operations Research, Bioinformatics, Economics, Computational Biology, Computer Science, Mathematics, Physics, Electrical Engineering, Industrial Engineering) or equivalent research experience.
+• 5+ years of work experience in data science related fields.
+Distinctive problem-solving skills, good at articulating product questions, pulling data from large datasets and using statistics to arrive at a recommendation.
+• Excellent verbal and written communication skills, with ability to present information and analysis results effectively.
+• Ability to build positive relationships within DSA and with our stakeholders, and work effectively with cross-functional partners in a global company.
+• Statistics: must have strong knowledge and experience in experimental design, hypothesis testing, and various statistical analysis techniques such as regression or linear models.
+• Machine Learning: must have deep understanding of ML algorithms (i.e. deep learning, random forest, gradient boosted trees, k-means clustering, etc.) and its development, validation, and evaluation.
+• Programming: experience with Python, R or other scripting language, and database language (e.g. SQL) or data manipulation (e.g. Pandas, Dplyr) are required.
+"
+"
+• AI 관련 학위 또는 실무 경험 7년 이상 (석/박사 경력 인정)
+• 머신러닝 프로젝트 리딩 경험
+• 논문을 이해하고 구현 할 수 있는 연구 및 개발 능력
+• 데이터 기반 실험 및 모델을 실 서비스에 적용하고 개선하여 비즈니스 임팩트를 창출해 본 경험이 있으신분
+• 다양한 직군과의 원활한 의사소통 및 협업이 가능하신 분
+• 스스로 문제를 찾고 개선하고자 하는 분
+"
+"
+• AI 관련 학위 또는 실무 경험 2년 이상 (석/박사 경력 인정)
+• 머신러닝 프로젝트 경험
+• 논문을 이해하고 구현 할 수 있는 연구 및 개발 능력
+• 다양한 직군과의 원활한 의사소통 및 협업이 가능하신 분
+• 스스로 문제를 찾고 개선하고자 하는 분
+"
+"
+• 다양한 형태의 데이터 분석 및 모델링 가능하신 분
+• 데이터 및 머신러닝에 대한 수학적 이해와 통계적 지식이 있는 분
+• 최신 알고리즘을 활용하여 실제 비즈니스 문제 해결 경험이 있으신 분
+• 3년 이상 유관 업무 경험을 보유하신 분
+• 원활한 커뮤니케이션을 통해 분석 및 모델링 결과를 동료들과 소통 할 수 있는 분
+"
+"
+- 꼼꼼하고 책임감 있는 분
+- 영어 문서 독해에 어려움이 없는 분
+- Excel 활용 능력이 우수한 분
+"
+"
+＜이런 분을 모시고 싶어요＞
+
+
+- 5년 이상의 데이터 분석 및 실무 경력을 보유한 분
+- 사업 관점에서 데이터 기반으로 실질적인 문제 해결과 지표 개선 과정을 경험한 분
+- SQL, Excel(구글스프레드시트), 파이썬 등을 활용하여 데이터 가공/추출/분석/리포팅에 능숙한 분
+- 비즈니스 인텔리전스 도구 및 리포팅 툴을 활용한 대시보드 구축 경험이 있으신 분
+- 다양한 부서와 협업을 통해 본인의 분석 및 인사이트를 바탕으로 액션까지 경험해보신 분
+"
+"
+＜이런 분을 모시고 싶어요＞
+
+- 3년 이상 경력
+- SQL 및 프로그래밍 언어(R, Python 등)를 활용하여 데이터 분석이 가능한 분
+- 비즈니스 인텔리전스 도구 및 리포팅 툴을 활용한 대시보드 구축 경험이 있으신 분
+- 다양한 부서와 협업을 통해 본인의 분석 및 인사이트를 바탕으로 액션까지 경험해보신 분
+"
+"
+**이런 분을 모시고 싶어요**
+
+- 3년 이상의 데이터 분석 직무 경험을 보유한 분
+- 데이터 툴 사용 능력이 우수하신 분 (엑셀, SQL, Tableau, GA, 파이썬 중 1개 이상 필수)
+- 데이터 분석에 기반해 문제를 정의하고, 문제를 해결한 경험이 있는 분
+- 커뮤니케이션 및 문서화 능력이 뛰어난 분
+"
+"
+[이런 분이 필요해요!]
+• 이미지 데이터에 대한 기초 지식 알는 사람
+• Python을 활용하여 머신러닝/딥러닝 프로젝트 경험자
+• OpenCV, Numpy, Tensorflow 및 Pytorch 사용 경험
+• CNN 및 transformer 사용 경험
+• 최신 기술에 관심이 많은 분
+• 주도적으로 일을 만들고, 책임감 있게 리드하시는 분
+• 다른 직군과 함께 문제를 정의하고 해결책을 찾을 수 있는 분
+
+[업무에 꼭 필요한 기술 스택 입니다]
+• Python
+• OpenCV, Numpy
+• Pytorch or Tensorflow
+"
+"
+[이런 분이 필요해요!]
+• 이미지 데이터에 대한 기초 지식 알는 사람
+• Python을 활용하여 머신러닝/딥러닝 프로젝트 경험자
+• OpenCV, Numpy, Tensorflow 및 Pytorch 사용 경험
+• CNN 및 transformer 사용 경험
+• 최신 기술에 관심이 많은 분
+• 주도적으로 일을 만들고, 책임감 있게 리드하시는 분
+• 다른 직군과 함께 문제를 정의하고 해결책을 찾을 수 있는 분
+
+[업무에 꼭 필요한 기술 스택 입니다]
+• Python
+• OpenCV, Numpy
+• Pytorch or Tensorflow
+"
+"
+이런 경험이나 성향/역량을 가진 분이라면 더욱 좋을 것 같아요.
+
+• 데이터 레이블링/라벨링 업무 경험자
+• 데이터 검수 경험자
+• 의료 데이터 관련 업무 수행자
+"
+"
+[이런 분이 필요해요!]
+• Python을 활용하여 머신러닝/딥러닝 프로젝트 (Prediction, Anomaly detection, Classification) 경험자
+• Tensorflow 또는 Pytorch 사용 경험
+• Pandas, Matplotlib등의 패키지를 활용한 데이터 정제, 전처리, 분석, 모델링, 시각화 경험을 보유하신 분
+• 최신 기술에 관심이 많은 분
+• 주도적으로 일을 만들고, 책임감 있게 리드하시는 분
+• 다른 직군과 함께 문제를 정의하고 해결책을 찾을 수 있는 분
+
+[업무에 꼭 필요한 기술 스택 입니다]
+• Tensorflow
+• Pytorch
+"
+"
+[이런 분이 필요해요!]
+• Python을 활용하여 머신러닝/딥러닝 프로젝트 (Prediction, Anomaly detection, Classification) 경험자
+• Tensorflow 또는 Pytorch 사용 경험
+• Pandas, Matplotlib등의 패키지를 활용한 데이터 정제, 전처리, 분석, 모델링, 시각화 경험을 보유하신 분
+• 최신 기술에 관심이 많은 분
+• 주도적으로 일을 만들고, 책임감 있게 리드하시는 분
+• 다른 직군과 함께 문제를 정의하고 해결책을 찾을 수 있는 분
+
+[업무에 꼭 필요한 기술 스택 입니다]
+• Tensorflow
+• Pytorch
+"
+"
+# 모요와 함께해요
+
+< 이런 분을 찾고있어요 >
+- 3년 이상의 프로덕트 데이터 분석 업무 경험이 있는 분
+- 데이터를 전처리하고 시각화하는데 필요한 SQL 역량을 갖춘 분
+- 데이터를 기반으로 다양한 가설을 세우고 분석해 본 분
+- 주어진 분석을 하기보다 주도적으로 데이터를 보고 인사이트를 도출할 수 있는 분
+- 실험 결과를 비롯한 데이터 인사이트를 동료들에게 설명해 본 분
+"
+"
+- SQL을 기반으로 데이터를 추출∙분석하고, 경영진의 의사결정에 필요한 정보를 체계화하실 수 있는 분
+- 논리적 사고와 오너십을 바탕으로 Data-Driven Business Solution을 도출∙실행∙모니터링한 경험이 있으신 분
+"
+"
+- 3년 이상의 데이터 분석 관련 실무 경험이 있는 분
+- 숫자와 데이터를 바탕으로 논리적 추론 및 인사이트를 도출하여 문제를 해결해 본 경험이 있으신 분
+- 데이터 분석 툴(Excel, SQL 등) 활용이 능숙한 분
+- 배민B마트, 배민스토어 및 물류 센터에 대한 관심이나 이해가 있으신 분
+"
+"
+ㆍSQL scripting에 익숙한 자
+ㆍData Handling 가능자
+ㆍMS Office 활용능력 우수자
+ㆍ업무 적응 능력 우수자
+ㆍ성실하고 원활한 커뮤니케이션 능력 보유자
+"
+"
+ㆍCRC 및 간호 경험자 또는 의학 용어에 익숙한 자
+ㆍ임상시험 Data Handling 가능자
+ㆍMS Office 활용능력 우수자
+ㆍ업무 적응 능력 우수자
+ㆍ성실하고 원활한 커뮤니케이션 능력 보유자
+
+"
+"
+■ 국내외 4년제 대학 관련학과 전공자
+■ 악성코드 분석, 취약점 분석 등 관련 업무 수행 경험자
+■ 분석 리포트 작성 등 문서 작성 유경험자
+■ 의사소통이 원활하고 타부서와 협업을 바탕으로 커뮤니케이션 역량 보유
+■ 관련 경력 6년 이상
+"
+"
+■ 국내외 4년제 대학 관련학과 졸업
+■ 악성코드 분석, 취약점 분석 등 관련 업무 수행 경험자
+■ 분석 리포트 작성 등 문서 작성 유경험자
+■ 의사소통이 원활하고 타부서와 협업을 바탕으로 커뮤니케이션 역량 보유
+■ 관련 경력 3년 이상
+"
+"
+• 공학/이학 계열 전공 학사 이상
+•AI, ML, Big Data에 대한 이해도가 있으신 분
+•Python 및 ML 프레임워크 (Pytorch, Tensorflow 등) 기반의 AI 연구경험이 있으신 분
+•AI 기반 데이터 분석 구축 경험이 있으신 분
+•모델의 Structure 및 코드 해석에 대한 두려움이 없으신 분
+"
+"
+•공학/이학 계열 전공 석사 이상
+•AI 및 MLOps 연구개발에 대한 3년 이상의 경력을 보유하신 분
+•AI, ML, Big Data에 대한 이해도가 있으신 분
+•AI/ML 기반 데이터 분석 및 운영 관련 과제 경험을 보유하신 분
+•AI/ML 분석 체계 구축에 대한 설계 및 컨설팅 역량 보유하신 분
+•모델의 Structure 및 코드 해석에 대한 두려움이 없으신 분
+"
+"
+＜이런 분을 찾습니다＞
+
+- 데이터 분석을 위한 Python 라이브러리(e.g. pandas, numpy)에 능숙하신 분을 찾습니다.
+- 다양한 통계 분석 기법에 대한 지식 혹은 경험을 갖추신 분을 찾습니다.
+- 데이터 시각화에 대한 지식 혹은 경험을 갖추신 분을 찾습니다.
+- 무엇보다도, 위 지식과 경험을 기반으로 실제 데이터에 대한 [문제 정의 - 가설 설정 - 실험 및 검증 - 결과 도출] 과정의 반복을 빠르게 반복해주실 수 있는 분을 찾습니다.
+- 메이아이의 Data Analyst는 분석의 방향성 설정부터 가설 수립 및 검증, 그리고 이에 따른 액션 플랜 기획까지 데이터 분석과 관련된 모든 권한을 갖습니다. 이 모든 과정을 주도적으로 진행하며, 빠르게 성장해주실 분을 찾습니다!
+"
+"
+• 관련 경력 2년 이상 (또는 그에 준하는 역량 보유)
+• SQL, Python 등 데이터 분석 도구 숙련자
+• 그로스 전략에 대한 기본 지식
+• 정량적인 분석에 흥미를 갖고 계신 분
+• 기획, 마케팅, 개발 등의 업무 관련자와의 원활한 커뮤니케이션 능력
+"
+"
+[Essential Experiences, Skillsets & Personal Competencies]
+- Undertaken 3 - 7 years' experience in a similar role or data analysis role.
+- Understanding on the multi-cultural, multi-lingual, and diverse environment.
+- Advanced MS Excel and SQL skills
+- Strong analytical skills
+- A keen eye for details and has a systematic approach in dealing with issues.
+
+[Desirable Personal Competencies and Attributes]
+- Business communication skills in both English and Korean
+- Ability to be ""hands-on,"" particularly with data collation and preparation
+"
+"
+- 관련 분야 경력 2년 이상 혹은 석사 이상학위 보유자
+- 컴퓨터 비전 분야의 최신 딥러닝 논문을 이해하고 빠르게 구현/학습/평가할 수 있는 역량 보유자
+- TensorFlow, PyTorch, MXNet 등 딥러닝 프레임워크 중 1개 이상에 대한 전문 지식 보유자
+- 해외 여행결격 사유가 없는 분
+- 전문연구요원 편입 가능
+
+"
+"
+👉 이런 분을 찾습니다.
+
+• 데이터 분석 방법에 대한 높은 수준의 이해도 보유자
+• 모바일 서비스 운영 경력자
+• 모바일 서비스 데이터 분석(고객생애가치, 리텐션, 코호트 분석 등) 이력 보유자
+• 프로덕트 지표 설정 및 성장 가설 수립 이력 보유자
+"
+"
+[ 이런 분을 모시고 있어요 ]
+ㆍGCP Professional 자격증 보유자(Machine Learning Engineer 우대)
+ㆍGCP 기반 데이터 분석 및 ML/AI 모델 구축 프로젝트 경력자
+ㆍ데이터 분석 방법 / 머신러닝 기술에 대한 높은 이해도 및 활용 능력 보유자
+ㆍ다양한 비정형(TEXT, Image, Sound) 데이터 처리 유경험자
+ㆍ원활한 의사소통 및 협업 능력 보유하신 분
+"
+"
+[ 이런 분을 찾고 있습니다 ]
+
+• SQL, Python, R 등 분석 도구 활용 능력이 우수하신 분
+• 데이터 추출, 전처리, 분석, 인사이트 도출까지 데이터 분석 전과정을 경험해보신 분
+• 데이터 기반의 문제 해결 능력과 논리적인 사고력을 가지신 분
+"
+"
+• 학사 수준 이상의 통계 관련 지식 보유자
+• 2년 이상의 관련 업무 경험자
+• 데이터 분석의 목적과 그를 통해 만들어 낼 수 있는 가치에 대해 끊임없이 고민하시는 분
+• 자유도가 높은 환경에서 주도적으로 데이터 파이프라인을 구축하고, 새로운 데이터를 발굴하며, 그에 대한 여러가지 분석을 시도하고 싶으신 분
+• 각각의 데이터가 어떤 의미를 갖는지 이해하기 위해 스스로 공부하는 것을 즐기시는 분
+• 원본 데이터부터 꼼꼼하게 들여다 보고, 확장성 있는 데이터 모형을 개발하시는 분
+• SQL, Python 등을 사용한 데이터 처리에 능숙하신 분
+• PM, 디자이너, 개발자 등 다양한 팀원들과의 원활한 커뮤니케이션이 가능하신 분
+"
+"
+- 7년 이상 데이터 분석 경험이 있는 분
+- 데이터 분석팀이나 서비스 전반을 리딩한 경험이 있는 분
+- SQL, Excel, Python, R 등의 기술적 피드백이 가능한 분
+- 서비스 핵심 지표를 설정하고, 지표 성장을 위해 다양한 가설을 세우고 실험하여 직접 서비스를 개선해보신 분
+- 가설 검증을 위한 A/B 테스트를 설계하고 결과를 분석하여 프로덕트에 적용한 경험이 있으신 분
+- 통계 기반으로 인과추론 및 데이터 분석이 가능한 분
+- 멀티 디바이스(모바일 / 앱)의 데이터를 통합하여 분석해본 경험이 있는 분
+- GA, Amplitude 등을 이용하여 데이터 로그 설계 및 관리 경험이 있는 분
+- 퍼널 분석, 리텐션 분석, 코호트 분석 등 프로덕트 데이터 분석 방법에 대한 이해도가 높으신 분
+"
+"
+• 7년 이상의 BA 및 CRM 마케팅 실무 경험이 있으신 분
+• 데이터 분석을 통해 의미있는 인사이트 및 개선사항을 도출해 본 경험이 있으신 분
+• 에어브릿지, 엠플리튜드, 엑셀 등을 활용하여 데이터 분석 활용 경험이 있으신 분
+• 프로젝트를 주도적으로 수행해 성과를 낸 경험이 있으신
+"
+"
+- 2~5년의 데이터 분석 경험이 있는 분
+- SQL을 사용해 직접 데이터를 추출하고 정제할 수 있는 분
+- Excel, Python, R 를 사용해서 추출된 데이터를 자유롭게 가공하고, 시각화 할 수 있는 분
+- 서비스 핵심 지표를 설정하고, 지표 성장을 위해 다양한 가설을 세우고 실험하여 직접 서비스를 개선해보신 분
+- 가설 검증을 위한 A/B 테스트를 설계하고 결과를 분석하여 프로덕트에 적용한 경험이 있으신 분
+- 멀티 디바이스(모바일 / 앱)의 데이터를 통합하여 분석해본 경험이 있는 분
+- 퍼널 분석, 리텐션 분석, 코호트 분석 등 프로덕트 데이터 분석 방법에 대한 이해도가 높으신 분
+- GA, Amplitude 등을 이용하여 데이터 로그 설계 및 관리 경험이 있는 분
+- 기초 통계학 지식이 있는 분
+"
+"
+• 3년 이상 CSS컨설팅(신용평가모형/전략 개발) 혹은 신용 데이터 분석 실무 경험을 가지신 분
+• Python/SAS 등 데이터 분석언어를 활용하여, 의사결정에 필요한 통계 리포트를 작성가능하신 분
+• 저축은행 등 주요 금융기관과의 커뮤니케이션이 원활하신 분
+"
+"
+• 기초통계학 지식 및 정량 데이터 분석 경험
+• 분석과 데이터 전처리 과정에서 필요한 SQL, Python 사용에 능숙하신 분
+• 이커머스와 SaaS의 주요 지표와 분석 방법론에 대한 높은 이해도 (GMV, MRR, LTV, Cohort, Retention 등)
+• 비즈니스적인 관점에서 데이터를 이해하고, 크고 작은 의사결정과 action item 도출까지 논리적이고 분석적으로 사고하실 수 있는 분
+• 데이터 비전문가에게도 필요한 내용을 쉽게 이해시키고 전달할 수 있는 커뮤니케이션 능력
+"
+"
+• 통계학, 머신러닝, 딥러닝에 대한 이해와 지식을 갖추신 분
+• 데이터를 깊이 있게 관찰하고, 이를 기반으로 비즈니스 문제를 해결하려는 의지와 역량을 갖은 분
+• 4년 이상의 Python, SQL등의 프로그래밍 언어를 활용하여 데이터를 분석/추출/가공 경험자
+• 데이터 사이언스 Framework(Pandas, Scikit-learn, Tensorflow, Pytorch 등) 사용 능숙자
+• 데이터 시각화 툴(Python 시각화 라이브러리, Tableau 등) 활용에 능숙하신 분
+• ML process (Data Collection → EDA → Preprocessing → Feature Engineering →
+Training → Evaluation → Serving) 일련의 과정을 수행해본 경험과 높은 이해도를 갖추신 분
+"
+"
+•석사 이상 또는 2년 이상의 경력을 보유하신 분
+•Remote Sensing, Signal Processing, Earth Science 등 관련 전공 및 학위 또는 그에 준하는 전문 지식을 보유하신 분
+•SAR 영상 신호처리 관련 논문의 정확한 이해 및 구현이 가능하신 분
+•Python, Matlab 등 신호처리를 위한 언어 및 라이브러리 사용이 가능하신 분
+"
+"
+[이런 분이 필요해요!]
+
+아래의 업무의 관리 및 수행 경험(이에 준한)이 있으신 분
+
+(PL)
+- 프로젝트 PL 경험
+- 제조 및 품질 등 제조관련 업무 수행 경험
+- 스마트팩토리 솔루션 및 시스템 구축 경험
+- 제조 IT 운영 및 개발/ 프로젝트 수행 경험
+- 공정관리, 생산관리, 품질관리, 설비관리 영역에서 프로세스 개발/설계 경험
+
+(연구원)
+- 고객사 요구사항을 이해 및 시스템 구축, 환경 분석
+- 솔루션 프레임워크 및 프로세스 이해
+- 제조 공정 이해도가 높으신 분
+
+"
+"
+[자격 조건]
+• 3년 이상의 데이터 엔지니어링 실무 경험, 또는 이에 준하는 실력을 갖춘 분
+• 분산 환경에서 대용량 데이터 Batch 처리 또는 비동기 데이터 처리 경험이 있으신 분
+• 프로그래밍 언어와 데이터분석 라이브러리 한 개 이상 능숙하게 다룰 수 있는 분
+• AWS architecture 설계나 운영 경험이 있는 분
+"
+"
+- 관련 업무 경력 3년 이상인 분
+- 시계열 데이터를 분석하고 인사이트를 찾아본 경험이 있으신 분
+- 데이터 시각화를 통해 인사이트를 찾아본 경험이 있으신 분
+- Python이나 R을 이용한 Data Analysis 수행이 가능한 분
+(데이터 추출, EDA, Statistical Analysis, Data Mining, Report 등 일련의 분석 업무 수행)
+- SQL Query 작성을 통해 필요한 데이터를 추출, 가공, 전처리 업무가 가능한 분
+"
+"
+- 유관 경험이 2년 이상 있으신 분을 원해요.
+- 기본적인 확률 및 통계 관련 지식이 있는 분을 원해요.
+- SQL을 통해 데이터를 추출하고 분석하실 수 있는 분을 원해요.
+- 데이터 분석 방법론(AARRR, Cohort, Funnel 등)에 대한 높은 이해를 바탕으로 한 문제 해결 역량이 있으신 분을 원해요.
+- 분석 결과를 타 팀이 이해하기 쉽도록 다양한 도구(BI Tools, Google Sheets 등)를 사용하여 시각화 할 수 있는 분을 원해요.
+- 주어진 문제를 푸는 대신, 자신이 풀어야 할 문제를 스스로 정할 수 있는 분을 원해요.
+- 데이터에서 유의미한 가설과 인사이트를 뽑아낼 수 있는 분을 원해요.
+"
+"
+- Front-end: Redwoodjs + Storybook + GraphQL + TailwindCSS
+- App: Flutter + Fastlane
+- Back-end: Redwoodjs + serverless + AWS Lambda
+- 데이터베이스: PostgreSQL + Amazon RDS
+- 사내 시스템: python + fastAPI
+"
+"
+• 데이터 분석 분야에서 6년 이상의 경험
+• 팀 리딩 경험이 있으신 분
+• SQL을 활용한 데이터처리에 매우 능숙하신 분
+• Tableau, Google Data Studio 등 리포트와 대시보드 작성 경험
+• Google Sheets, MS Excel 등 에 능숙하신 분
+• Python, R 등 데이터분석 관련 코드 작성 경험
+"
+"
+• 3년 이상의 데이터 분석 경력 혹은 이에 준하는 경험
+• 데이터 분석 방법론 및 관련 내용에 대한 높은 이해도 (LTV, AARRR, Retention, Cohort, Funnel 등)
+• R, SQL, Python 등 데이터 활용에 대한 높은 이해도
+• GA, Amplitude 등 데이터 로그분석에 대한 높은 이해도
+"
+"
+[클라이언트/서버]
+좋은 디자인과 아키텍처를 추구하며, 주어진 문제를 해결하기 위해 다양한 기술을 탐색하고 연구하는 적극적인 자세를 가지신 분
+기술적 정보를 다양한 직군의 동료에게 명확하게 설명할 수 있는 커뮤니케이션 능력을 가지신 분
+
+[게임기획]
+자신의 아이디어를 정확히 전달할 수 있는 문서 작성, 이미지화 능력이 있으신 분
+주어진 문제를 해결하기 위해 다양한 기술을 탐색하고 연구하는 적극적인 자세를 가지신 분
+"
+"
+• SQL을 활용한 데이터 추출 업무 경험
+• 정형 및 비정형 데이터를 numpy, pandas, spark 등을 활용한 전처리 업무 경험
+• 데이터 시각화 툴 (PowerBI, Tableau) 활용 경험
+• 데이터에 기반한 인사이트 도출 및 문제 해결 능력
+• 쉽고 간결한 언어로 명확하게 전달할 수 있는 보고서 작성 및 커뮤니케이션 능력
+"
+"
+- Bachelor’s degree required; majored in Economics, Statistics, Risk management preferred.
+- Strong business acumen and communications skills needed to interface with both Executive Management and our Clients (including internal business partnering)
+- Should over 7 years experiences in work
+- 4+ years of experience within leading the Projective work, Data analytics, Quality management, Risk management, General insurance, Risk management, telecommunication preferred.
+- Advanced knowledge of Microsoft Office Suite applications including Excel, Word and PowerPoint. (Power-BI and other reporting tools a plus).
+- Experience working in a multi-national, multi-cultural, multi-lingual, and diverse environment.
+- Experience applying problem-solving skills to complex systems (financial/operational) and associated integrated processes.
+- Strong time management and organization skills
+"
+"
+• 데이터 분석 분야에서 최소 2년 이상 경력이 있거나 그에 준하는 역량을 보유하신 분.
+• SQL을 통해 데이터를 추출하고 분석할 수 있는 분.
+• BI툴(Google Data Studio, QuickSight, Metabase 등)을 사용해 대시보드 및 시각화가 가능한 분
+• A/B 테스트를 설계하고 분석할 수 있는 분.
+"
+"
+• DA 경력 3년 이상 혹은 이에 준하는 실력
+• 코호트 분석, A/B 테스트, Funnel 분석 등의 분석 방법론에 대한 이해 & 실무 적용 경험
+• SQL을 통한 데이터 핸들링 역량
+• 모바일 서비스 데이터 분석 방법(Customer Lifetime Value, Retention, Cohort Analysis 등)에 대한 이해
+"
+"
+- 컴퓨터/ 공학 계열 4년제 대학 졸업 이상 (예정자 가능)
+- C/ C++ 가능자
+"
+"
+- 이공계 석사 이상 (전문연구요원 병역특례 가능) 또는 이에 준하는 경력이 있으신 분
+- KCI 이상 논문 게재 실적 1건 이상 있으신 분
+- 정부 R&D 과제 수행 경험이 있으신 분
+- Python, R, SQL 및 관련 데이터 분석 도구가 익숙하신 분
+- 문서작성능력이 우수하신 분 (HWP/Word/PPT/EXCE 위주의 사업계획서/보고서/ 기타 자료 작성 등)
+- 해외 출장에 결격사유가 없으신 분
+"
+"
+• DA 경력 5년 이상 혹은 이에 준하는 실력
+• 코호트 분석, A/B 테스트, Funnel 분석 등의 분석 방법론에 대한 이해 & 실무 적용 경험
+• Amazon Athena (또는 Presto), Amazon Redshift, Google BigQuery, Snowflake 를 통한 빅데이터 핸들링 역량
+• 모바일 서비스 데이터 분석 방법(Customer Lifetime Value, Retention, Cohort Analysis 등)에 대한 높은 수준의 이해
+"
+"
+- Google Analytics혹은 Adobe Analytics의 데이터 구조에 대한 이해를 지닌 분
+- 디지털 광고/캠페인 등의 퍼포먼스 마케팅에 대한 전반적인 이해를 가진 분
+- 기본적인 비즈니스 영어 가능한 분
+- 엑셀, 파워포인트를 자유롭게 활용할 수 있는 분
+- 적극적이고 능동적인 마인드 / 커뮤니케이션 스킬 보유
+"
+"
+• 데이터 프러덕트 기획과 관련 통계 지식, 소상공인/카드 매출 데이터에 대한 이해를 보유하신 분
+• 다양한 데이터 분석 경험 및 관련 기술을 보유하신 분
+• 데이터 분석 도구(R,SAS,Python)를 능숙하게 활용하실 수 있는 분
+• 분석 역량을 바탕으로 데이터에 기반한 문제 해결 경험이 많으신 분
+• 데이터 상품/서비스 기획 관련 경험 및 대외고객 대상 데이터 분석/컨설팅 관련 이해를 보유하신 분
+• 데이터 분석 결과를 기반으로 구성원들과 원활한 커뮤니케이션이 가능하신 분
+• 새로운 데이터 상품/서비스를 개발하고 고객과 best practice를 찾는데 열정과 의지가 있으신 분
+"
+"
+- SQL 데이터 추출 및 Excel 데이터 분석이 능숙하며, 관련 실무를 3년 이상 경험하신 분
+- 데이터 분석을 통한 개선 프로젝트를 주도적으로 이끌어 본 경험이 있으신 분
+- 분석결과를 근거로 논리적 추론 및 인사이트를 도출하여 문제를 해결해 본 경험이 있으신 분
+"
+"
+- 3년 이상의 데이터 분석 관련 실무 경험이 있는 분
+- SQL 데이터 추출 및 Excel 데이터 분석이 능숙한 분
+- 데이터 시각화 툴(Tableau, Redash) 활용 경험이 있는 분
+- 데이터 분석을 바탕으로 개선 프로젝트 리딩 경험이 있는 분
+- 데이터 분석을 통한 논리적인 의사결정 및 인사이트 도출 경험이 있는 분
+"
+"
+- 고객분석을 통한 전략 수립 및 인사이트 도출 업무 경험
+- SQL을 활용한 데이터 추출 및프로시저 개발
+- Python을 활용한 데이터 분석 경험
+- ML을 활용한 구매예측 등 예측 모형 개발 및 활용 경험
+"
+"
+• ELK 스택 경험자
+•데이터 애널리스트 경력
+•IT/Tech 산업에 관심이 높은 자
+•데이터 분석 및 비쥬얼라이징 작업에 관심이 높은 분
+•수학적 사고와 통계적 사고를 갖춘 분
+"
+"
+- 인프라 및 데이터 관련 5년 이상 경력자
+- 전산학에 대한 기본적인 이해도가 있는 분
+- Java, Scala, Python 등에 대해 능숙하게 다룰 수 있는 언어를 1 개 이상
+보유하신 분
+- Hadoop Ecosystem 관련 기본 지식을 갖추고 계신 분
+"
+"
+ㆍ경력 3년 이상
+ㆍOracle Database 운영/백업/모니터링/장애처리 경험자
+ㆍDB Schema 관리 및 DB 성능 최적화
+ㆍOracle DB 및 RAC 설치/운영 경험자
+ㆍDB Migration 경험
+"
+"
+• 데이터 엔지니어링 경험 보유자 (4~8년)
+• 클라우드(AWS) 기반 빅데이터 플랫폼 사용 경험 보유자
+• Python/SQL을 활용한 데이터 파이프라인 개발 경험 보유자
+• DW, DM (SQL) 개발 경험 보유자
+• 비즈니스에 대한 이해도가 높고 동료와의 커뮤니케이션 우수한 분
+"
+"
+• 경력은 솔루션 지원 경헙이면 되고, 희망연봉과 근거를 제시하면 됩니다.
+• 신입은 DB에 대한 이해와 적극적인 의지만 있으면 됩니다. 초봉은 3500입니다.
+• 추가로 아래와 같은 자세와 스펙을 가지셨다면 훨씬 유리 합니다.
+- 외산 제품의 특성상 영문에 익숙할 수록 빠르게 적응할 수 있습니다.
+- erwin 사용 경험이나 DB 모델링에 대한 이해, DB에 대한 이해가 많을 수록 훨씬 유리합니다.
+- 자기 이름이 들어간 erwin 연계 제품을 만들고 싶으신 분은 대 환영입니다.
+- 발표나 강의, 말하기 좋아하시는 분들에게는 국내는 물론 해외를 대상으로도 많은 기회를 드릴 수. 있습니다.
+- 문서나 동영상 작업을 잘하시는 분 이시면 굳이 말로 하지 않으셔도 됩니다.
+- 다양한 아이디어를 제안하고 실행하는 것을 좋아하시는 분이면 특별히 우대 합니다.
+"
+"
+• 3년 이상(석/박사 학위 기간 포함) 경력 보유
+• Linux / UNIX 시스템에 대한 지식
+• 소프트웨어의 고가용성, 내고장성 구성 경험
+• Database 활용 경험
+• Docker 등 Container 환경에 대한 지식
+• 오픈소스 도입 / 사용 경험
+• Github.com ID 제출
+"
+"
+• 데이터 수집, 전처리 중 1개 이상 구축 경험이 있는 1년 이상의 경력자 또는 그에 준하는 실력을 갖춘 분
+• 대규모 데이터 파이프라인 포함 서비스 개발 경험 3년 이상 또는 그에 준하는 실력을 갖춘 분
+• 1개 이상의 프로그래밍 언어에 능숙하신 분
+• 배치 및 실시간 데이터 처리 아키텍처에 대한 이해도가 높고, 서비스에 적용한 경험이 있는 분
+"
+"
+• 경력 2년 이상
+• Python, Scala 등 파이프라인 구축 업무를 수행할 수 있는 하나 이상의 개발 언어 숙련자
+• AWS 클라우드 환경하에서 데이터 분석 시스템 운영 경험 보유자
+• NoSQL(MongoDB, Elasticsearch등) 사용/운영 경험자
+"
+"
+• 3년 이상의 관련 업무 경력이 있으신 분
+• Python/R 등을 활용하여 ML모형을 개발하고, 실제 Operation System에 적용 가능하신 분
+• Python/R 등을 활용하여, 의사결정에 필요한 통계 리포트를 작성가능하신 분
+"
+"
+• 백앤드 개발 언어(Go, Python) 중 하나 이상 능숙하게 구사할 수 있으신 분
+• ML/Deep Learning Framework(scikit-learn, TensorFlow, Keras 등) 1년 이상의 사용 경험
+• 능숙한 SQL 작성 및 대용량 데이터베이스 모델링
+• Hadoop MR, Hive, Spark, Flink, Presto 등 빅데이터 프레임워크 사용 경험이 있으신 분
+• Tableau 등의 BI Tool을 이용한 데이터 시각화 경험이 있으신 분
+"
+"
+- 관련 업무 경험 3년 이상인 분
+- Postgresql, Oracle, MySQL/MariaDB 등 DB 스키마 설계, 구현 경험
+- SQL, Stored Procedure 작성 능력이 있는 분
+- ER 다이어그램 작성 능력
+- 데이터베이스에 대한 이해가 있으신 분
+- 데이터베이스 튜닝으로 성능 향상 경험이 있으신 분
+"
+"
+• 안정적이고 확장 가능한 데이터 제품을 설계하고 이를 서빙하기 위해 필요한 사항을 직접 구현하실 수 있습니다.
+• 높은 코드 퀄리티와 아키텍쳐 수준을 지향하며, 이를 데이터 플랫폼 및 데이터 제품에 녹여낼 수 있습니다.
+• Airflow와 같은 workflow scheduler (Prefect, Oozie등)에 대한 이해와 이를 활용한 workflow 개발 경험이 있으신 분을 찾습니다.
+• CS 전공자 또는 그에 상응하는 알고리즘, 데이터구조, OS, 데이터베이스 등 기본적인 전산 지식에 대한 이해를 갖추신 분을 찾습니다.
+"
+"
+• 5년 이상 10년 이하의 클라우드 기반 데이터 플랫폼 구축 및 운영에 익숙한 분
+• 데이터 어플리케이션 개발을 위한 프로그래밍 언어(Python 등) 스킬을 보유한 분
+• 데이터 ETL 파이프라인 구축 및 운영 경험이 있는 분
+• 새로운 기술 및 트렌드를 추적하고 실 업무에 적용해보는 열정과 도전의식이 있는 분
+"
+"
+• 3~5년 이상의 AWS, GCP등 cloud native 환경에서의 데이터 인프라 구축 및 운영 경험을 가지
+고 있습니다.
+• 안정적이고 확장가능한 데이터 제품을 설계하고 이를 서빙하기 위해 필요한 사항을 직접 구현할 수
+있습니다.
+• 높은 코드 퀄리티와 아키텍쳐 수준을 지향하며, 이를 데이터 플랫폼 및 데이터 제품에 녹여낼 수 있
+습니다.
+• Airflow와 같은 workflow orchestrator (Prefect, Oozie등)에 대한 이해와 이를 활용한
+workflow 개발 경험이 있습니다.
+• CS 전공자 또는 그에 상응하는 알고리즘, 데이터구조, OS, 데이터베이스 등 기본적인 전산 지식을
+보유하고 이를 업무에 활용할 수 있습니다.
+"
+"
+• 컴퓨터 및 유관 분야 학사 이상
+• 정보보호 업무 3년 이상
+• 데이터 보안 업무 경력
+• 정보보호 정책에 대한 이해 및 관리체계, 절차에 대한 지식 및 경험
+• 시스템 보안 설치 및 운영, 취약점 분석 능력
+• AI/ML주요 개념 및 개발 프로세스에 대한 개념적 수준의 이해
+• Data Science에 대한 기본적인 이해
+• Shell, Python 등 최소 1개 이상의 스크립트 언어 활용 가능자
+• 적극적이고 원활한 의사 소통 능력
+• 투명한 정보 공유와 원활한 상호 피드백이 가능한 문화를 리드할 수 있는 역량
+"
+"
+[이런 분과 함께하고 싶습니다]
+
+• 데이터 주도 결정(DDD)을 기반으로 제품의 문제점을 파악하고 향상시키려는 열정을 가진 분
+• Node.js, Go, Python 중 하나 이상을 사용한 프로그래밍 스킬
+• 다양한 종류의 Relational/NoSQL 데이터베이스를 사용해본 경험
+• 전문적인 통계지식과 인사이트를 보유하고, 가설 수립 및 검증, 인과 분석을 실행할 수 있는 분
+"
+"
+• Python을 능숙하게 사용하시는 분(3년 이상)
+• 데이터 파이프라인을 구축하고 운영해본 경험이 있으신 분
+• 클라우드 환경(AWS, GCP, Azure)에서 다양한 서비스를 운영하고 구축한 경험이 있으신 분
+• 동료를 존중하고 다양한 직군과 커뮤니케이션이 원활하신 분
+"
+"
+- 유관 경력 2년 이상 혹은 그에 준하는 실력을 지니신 분
+- 모바일 앱서비스, 플랫폼 서비스/사업에서의 PM을 2년 이상 경험하신 분
+- 고객중심 사고, 데이터 기반 의사결정에 익숙한 분
+- 다양한 직군과의 협업과 커뮤니케이션이 능숙하신 분
+- 데이터 분석 프로젝트를 수행하면서 성과를 만들어보신 분
+"
+"
+• 웹스퀘어 기반 사이트 스크래핑 업무 경험(홈택스 등)
+• 데이터 엔지니어링 관련 경력 3년 이상 혹은 그에 준하는 역량을 보유하신 분.
+• Python, Node.js 등 하나 이상의 언어에 능숙하신 분.
+• 팀 워크 및 유관 부서와 협업 커뮤니케이션이 원할하신 분.
+• 코드의 가독성과 동료 리뷰의 중요성을 체감하고 계신 분.
+"
