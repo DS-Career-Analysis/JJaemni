@@ -1,9 +1,9 @@
 import pandas as pd
 pd.set_option('display.max_rows', 10)
 pd.set_option('display.max_columns', None)
-path = 'C:\\VSC\\JJaemni\\CSV\\Task4\\'
+path = 'C:/VSC/JJaemni/CSV/Task4/'
 
-df = pd.read_csv(path + 'jobplanet.csv')
+df = pd.read_csv(path + 'jobplanet_dup.csv')
 
 prf_list = []
 for i in range(0, df.shape[0]):
@@ -20,7 +20,8 @@ for i in range(0, df.shape[0]):
     patterns = [
         '채용 절차',
         '복리후생',
-        '*전형절차'
+        '*전형절차',
+        '#리텐틱스의 기술 스택'
     ]
     for pattern in patterns:
         if pattern in requires_text:
