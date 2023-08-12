@@ -1,7 +1,7 @@
 import pandas as pd
 pd.set_option('display.max_rows', 10)
 pd.set_option('display.max_columns', None)
-path = 'C:\\VSC\\JJaemni\\CSV\\Task4\\'
+path = 'C:/VSC/JJaemni/CSV/Task4/'
 
 
 
@@ -19,4 +19,4 @@ print(f'중복 채용공고 제거 후, 채용공고 개수: {df_copy.shape}')
 print('---------------------------------------------')
 
 df_copy.reset_index(drop=True, inplace=True)
-df_copy.to_csv(path + 'jobplanet.csv', index=False, encoding='utf-8-sig')
+df_copy.to_csv(path + 'jobplanet_dup.csv', index=False, encoding='utf-8-sig')
