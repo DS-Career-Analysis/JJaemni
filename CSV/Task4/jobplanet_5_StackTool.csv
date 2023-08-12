@@ -1,18 +1,15 @@
 ﻿StackTool
 "
-java, 데이터분석, R, hadoop, 파이썬
+python, Docker, Tensorflow, Pytorch
 "
 "
-python, SQL, 머신러닝, 알고리즘
+python, 모델링, SQL, ml, dl
 "
 "
-데이터분석, python
+데이터분석, SQL, 파이썬, NLP
 "
 "
-데이터분석, aws, 모델링, 아이디어, Kubernetes
-"
-"
-python, R, 파이썬, 데이터사이언티스트
+데이터분석, SQL, 파이썬, NLP
 "
 "
 데이터분석, python, SQL, R, 머신러닝, 데이터 분석, 파이썬, 딥러닝, 데이터과학자
@@ -21,16 +18,73 @@ python, R, 파이썬, 데이터사이언티스트
 연구개발, AI, 데이터분석, 머신러닝, 데이터사이언티스트
 "
 "
+java, 데이터분석, R, hadoop, 파이썬
+"
+"
+python, SQL, 머신러닝, 알고리즘
+"
+"
 연구개발, AI, 데이터분석, 머신러닝, 데이터사이언티스트
+"
+"
+데이터분석, aws, 모델링, 아이디어, Kubernetes
+"
+"
+python, R, 파이썬, 데이터사이언티스트
 "
 "
 데이터분석, 프로토타이핑, Deep Learning
 "
 "
+데이터분석, 머신러닝, 신재생에너지, 파이썬, 태양광
+"
+"
+빅데이터, CRM, SQL, 데이터 분석
+"
+"
+마케팅, 데이터분석, SQL, 머신러닝
+"
+"
+데이터분석, python, SQL, R, 데이터 분석
+"
+"
+SQL, Tableau
+"
+"
+데이터분석
+"
+"
+데이터분석
+"
+"
+개발, 인공지능, 데이터분석, 개발기획
+"
+"
+데이터분석, python, SQL, 파이썬
+"
+"
+데이터분석, 데이터관리, 데이터사이언티스트
+"
+"
+기획, 컨설팅, 클라우드, 대응
+"
+"
+python, R, 데이터 분석, 인사이트 도출
+"
+"
 excel, python, MYSQL
 "
 "
+데이터분석, python, SQL, kpi, 데이터
+"
+"
+java, 빅데이터, 데이터분석, python, SQL, 머신러닝, nosql, Spark, Tensorflow
+"
+"
 데이터분석, python, SQL, R, 파이썬
+"
+"
+excel, python, R, MYSQL
 "
 "
 데이터분석, python, SQL, R, 파이썬
@@ -39,7 +93,16 @@ excel, python, MYSQL
 엑셀, 데이터분석, python, SQL, ga
 "
 "
+AI, 데이터분석, gcp, ml
+"
+"
+python, SQL, 머신러닝, 딥러닝, Tableau, Tensorflow, Pytorch, pandas, ml
+"
+"
 AI, 데이터분석, 머신러닝, 딥러닝, 알고리즘
+"
+"
+python, 파이썬, 딥러닝, 신호처리, Pytorch
 "
 "
 데이터분석, python, 머신러닝, 딥러닝, 알고리즘
@@ -48,13 +111,43 @@ AI, 데이터분석, 머신러닝, 딥러닝, 알고리즘
 데이터관리, 매뉴얼
 "
 "
+데이터분석, python, aws, SQL, 데이터 분석, 파이썬, gcp, Tableau, 인사이트 도출, amplitude
+"
+"
+데이터분석, python, SQL, 파이썬
+"
+"
 AI, 데이터분석, 머신러닝, 딥러닝, 알고리즘
 "
 "
 데이터분석, python, 머신러닝, 딥러닝, 알고리즘
 "
 "
-데이터분석, python, aws, SQL, 데이터 분석, 파이썬, gcp, Tableau, 인사이트 도출, amplitude
+git, graphql, Flutter
+"
+"
+기획, 서비스기획, 데이터분석, R, 서비스운영
+"
+"
+데이터분석, SQL, Spark, Tableau, pandas, POWER BI, numpy
+"
+"
+기획, C#, C++, 프로그래밍, 클라이언트 프로그래밍 C++, 게임개발, 게임기획, 클라이언트, 클라이언트 개발, 유니티 언리얼 클라이언트
+"
+"
+CSS, 데이터분석, python, 솔루션, 리스크관리, 파이썬
+"
+"
+데이터분석, SQL, R, 임상, DM
+"
+"
+데이터분석, python, SQL, 데이터관리, 데이터베이스
+"
+"
+excel, 데이터분석, python, SQL, POWER BI
+"
+"
+pm, 데이터관리, CRA, 임상, CRC, DM
 "
 "
 excel, SQL, Tableau
@@ -63,16 +156,22 @@ excel, SQL, Tableau
 엑셀, SQL, 데이터 분석, Tableau
 "
 "
-데이터분석, SQL, R, 임상, DM
-"
-"
-pm, 데이터관리, CRA, 임상, CRC, DM
+excel, 데이터분석, SQL, risk management, Data analyst, communication, Presentation, POWER BI
 "
 "
 악성코드 분석
 "
 "
 악성코드 분석
+"
+"
+pm, pl
+"
+"
+데이터분석, python, aws, SQL, gcp
+"
+"
+인공지능, c, C++, AI, 머신러닝, 영상처리, 머신비전, 딥러닝, 알고리즘, 이미지 처리
 "
 "
 빅데이터, AI, 데이터분석, python, 알고리즘, ml
@@ -81,164 +180,98 @@ pm, 데이터관리, CRA, 임상, CRC, DM
 빅데이터, AI, 데이터분석, 알고리즘, ml
 "
 "
-데이터분석, python, 파이썬
+MFC, 데이터분석, SQL, 지표관리, Tableau
 "
 "
-python, SQL, 데이터 분석, 인사이트 도출
-"
-"
-excel, 데이터분석, python, SQL, POWER BI
+제약, 데이터분석
 "
 "
 머신러닝, 딥러닝, 데이터수집
 "
 "
-기획, 서비스기획, 데이터분석, R, 서비스운영
+AI, 데이터분석, python, 연구 개발, ml, dl
 "
 "
-AI, 데이터분석, gcp, ml
+java, python, aws, MYSQL
 "
 "
-데이터분석, python, SQL, R, 머신러닝, 데이터 분석, Tableau
+dbms, Apache
 "
 "
-데이터분석, python, SQL, 파이썬
+개발, python, aws, gcp
 "
 "
-excel, python, R, MYSQL
+Docker, Kubernetes, airflow
 "
 "
-데이터분석, 퍼포먼스 마케팅, SQL, DA, BA, CRM마케팅, amplitude
+백업
 "
 "
-데이터분석, python, SQL, kpi, 데이터
+python, Framework, 데이터엔지니어
 "
 "
-CSS, 데이터분석, python, 솔루션, 리스크관리, 파이썬
+python, aws, SQL, 알고리즘
 "
 "
-데이터분석, python, SQL, 데이터관리, 데이터베이스
+python, aws, SQL, 알고리즘
 "
 "
-python, SQL, 머신러닝, 딥러닝, Tableau, Tensorflow, Pytorch, pandas, ml
+python, SQL
 "
 "
-python, 파이썬, 딥러닝, 신호처리, Pytorch
+데이터분석, python, R, SAS
 "
 "
-데이터분석, pl, 머신러닝, 딥러닝, 빅데이터분석
+데이터분석, python, R, SAS
 "
 "
-java, 빅데이터, 데이터분석, python, SQL, 머신러닝, nosql, Spark, Tensorflow
+빅데이터, python, aws, dw, 클라우드
 "
 "
-빅데이터, 데이터분석, SQL, 파이썬, 딥러닝
-"
-"
-데이터분석
-"
-"
-git, graphql, Flutter
-"
-"
-SQL, Tableau
-"
-"
-데이터분석, python, SQL, R, ga분석, amplitude
-"
-"
-기획, C#, C++, 프로그래밍, 클라이언트 프로그래밍 C++, 게임개발, 게임기획, 클라이언트, 클라이언트 개발, 유니티 언리얼 클라이언트
-"
-"
-데이터분석, SQL, Spark, Tableau, pandas, POWER BI, numpy
-"
-"
-excel, 데이터분석, SQL, risk management, Data analyst, communication, Presentation, POWER BI
-"
-"
-데이터분석, python, aws, SQL, gcp
-"
-"
-SQL, 데이터 분석, google analytics, Data analyst, firebase, amplitude
-"
-"
-인공지능, c, C++, AI, 머신러닝, 영상처리, 머신비전, 딥러닝, 알고리즘, 이미지 처리
-"
-"
-python, SQL, R
-"
-"
-SQL, 데이터 분석, google analytics, Data analyst, firebase, amplitude
-"
-"
-데이터분석, SQL, 데이터 분석
-"
-"
-데이터분석, 통계, python, R, SAS, 시스템설계
-"
-"
-MFC, 데이터분석, SQL, 지표관리, Tableau
-"
-"
-MFC, 데이터분석, SQL, 지표관리, Tableau
-"
-"
-python, SQL, 파이썬
-"
-"
-데이터분석, 머신러닝, GIS, 딥러닝, NLP, 공간정보
-"
-"
-java, python, 인프라, 데이터, hadoop, scala, hive
+java, python, Linux, 파이썬
 "
 "
 SQL, MYSQL, DB, 데이터베이스
 "
 "
-데이터분석, python, aws, SQL, 데이터엔지니어
-"
-"
-SQL, 엔지니어, 솔루션, DB
-"
-"
-Linux, hadoop, unix, Spark, Docker
-"
-"
-프로그래밍, 데이터엔지니어, 데이터수집, 전처리
-"
-"
-aws, nosql, scala, 파이썬
-"
-"
-python, R, 데이터 분석, 데이터엔지니어, 데이터 수집
-"
-"
-python, SQL, 백엔드, go
-"
-"
-aws, SQL, 데이터베이스, 데이터엔지니어
-"
-"
 python, aws, airflow
 "
 "
-ios, kotlin, python, MYSQL, hadoop, Spark
-"
-"
-python, aws, airflow
+java, python, 인프라, 데이터, hadoop, scala, hive
 "
 "
 SAP, ERP, ABAP, SAP MM
 "
 "
-python, aws, etl, nosql, node.js
-"
-"
 python, aws, azure, 데이터관리, 빅데이터 분석, gcp
+"
+"
+프로그래밍, 데이터엔지니어, 데이터수집, 전처리
+"
+"
+aws, SQL, 데이터베이스, 데이터엔지니어
+"
+"
+SQL, 엔지니어, 솔루션, DB
+"
+"
+python, SQL, 백엔드, go
+"
+"
+ios, kotlin, python, MYSQL, hadoop, Spark
+"
+"
+python, aws, 데이터 분석, node.js, Flask, nestjs
+"
+"
+Linux, hadoop, unix, Spark, Docker
 "
 "
 pm, aws, git, Docker, 데이터엔지니어, gcp
 "
 "
-python, aws, 데이터 분석, node.js, Flask, nestjs
+python, 머신러닝, 데이터엔지니어링, 딥러닝
+"
+"
+SQL, MYSQL, 클라우드, MongoDB
 "
