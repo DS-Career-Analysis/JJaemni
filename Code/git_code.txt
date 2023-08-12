@@ -1,0 +1,13 @@
+git init
+git add README.md
+git config --global core.autocrlf true
+git commit -m ""
+git commit --amend
+git branch -M master
+git remote add origin https://##.git
+git push origin master
+
+git rev-parse --show-toplevel
+cd ##
+ls -a
+rm -r -f .git
