@@ -4,19 +4,16 @@ Pytorch
 Tensorflow
 Python"
 "
-SQL"
+Kotlin
+Spring Framework"
+NaN
+NaN
+NaN
 "
 Confluence
 Git
 JIRA
 AWS"
-NaN
-NaN
-NaN
-NaN
-NaN
-NaN
-NaN
 "
 BitBucket
 Git
@@ -26,47 +23,48 @@ AWS
 DevOps
 ITIL
 Kubernetes"
+NaN
 "
-GitLab
-C#
+SQL"
+NaN
+NaN
+"
+Zeplin
+Git
+Github
+Trello
+Android
+Amazon Web Service
+Firebase
+Flask
+iOS
+Linux
+MySQL
+HTML
 Java
 JavaScript
 Python
-Scala
-TypeScript
-C
-C++
-Jenkins
-Shell Scripting
-Kubernetes"
+SQL
+Google Analytics
+AWS
+Nginx
+Notion"
+NaN
 NaN
 "
-Azure
-AWS
-GCP"
+Power BI
+QA 엔지니어링"
 "
-Confluence
-Git
-JIRA
-Python
-AWS"
+Android
+Kotlin
+Android Studio
+Flutter
+Restful API"
+NaN
 "
 Python
 R
 AWS"
-"
-Python
-SQL
-Tableau
-AWS
-Spring Framework
-ML"
-"
-React
-Python
-Docker
-PostgreSQL
-Nginx"
 "
 Github
 Android
@@ -77,74 +75,113 @@ Python
 AWS
 GIS
 ML"
-"
-Spark
-Tensorflow
-Python
-AWS
-NumPy"
 NaN
-NaN
-"
-Django
-Python"
-NaN
-"
-Git
-Python
-SQL
-AWS
-GCP"
-"
-Confluence
-Github
-GitLab
-JIRA
-Java
-JavaScript
-C
-C++
-RDBMS
-JSP
-MFC
-Spring Boot"
-"
-Git
-Java
-JavaScript
-Python
-AWS"
-"
-Git
-Python
-SQL
-AWS"
-"
-MySQL
-Oracle
-MSSQL"
 "
 React
-Node.js
+Java
+Vue.JS"
+"
+Hadoop
+MongoDB
+MySQL
+Spark
+Python
+R
+Tableau
+Jenkins
+PostgreSQL
+Neo4j"
+"
+Hadoop
+MongoDB
+MySQL
+Spark
+Python
+R
+Tableau
+Jenkins
+PostgreSQL
+Neo4j"
+"
+Azure
 AWS
+GCP"
+"
+GitLab
+CSS
+TypeScript
 React.js
+Next.js"
+"
+Framer
+Github
+JIRA
+Slack
+React
+Node.js
+Python
+TypeScript
+AWS
+Docker
+OpenCV
+NumPy
 React Native
-Next.js
+Figma
+Notion
 Nest.js"
+NaN
+"
+Linux
+Python
+SQL
+AWS
+Docker
+Shell Scripting
+RDBMS
+ElasticSearch"
+NaN
+NaN
+NaN
+NaN
+NaN
+"
+Git
+Flask
+Google Cloud Platform
+Redis
+Python
+AWS
+Docker
+PostgreSQL
+Kubernetes"
 "
 Git
 Python
 SQL
 AWS
 GCP"
-NaN
-NaN
 "
-Git
+Azure
+.NET
+Google Cloud Platform
+Hadoop
+Pytorch
+Tensorflow
+Java
 Python
+Shell
 SQL
+Google Analytics
 AWS
-GCP"
+ETL
+NoSQL
+VBA
+데이터 마트
+MSSQL"
+"
+Pytorch
+Tensorflow
+Python"
 "
 ExpressJS
 MongoDB
@@ -163,55 +200,77 @@ AAC
 React.js
 MSSQL
 React Native"
-NaN
-"
-Pytorch
-Tensorflow
-Python"
-"
-Linux
-Oracle
-Java
-Python
-ETL
-JSP
-ElasticSearch
-Spring Boot"
-NaN
-NaN
-"
-JavaScript
-TypeScript
-React.js
-React Native
-Next.js"
-"
-AWS
-Kubernetes"
-"
-AWS
-Kubernetes"
-"
-AWS
-BGP
-Kubernetes"
-NaN
 "
 Git
-Node.js
 Python
 SQL
-Docker
-PostgreSQL"
+AWS
+GCP"
+"
+Git
+Python
+SQL
+AWS
+GCP"
 NaN
 "
+Linux
+QA 엔지니어링"
+"
+Linux
+QA 엔지니어링"
+"
+React
+Node.js
+AWS
+React.js
+React Native
+Next.js
+Nest.js"
+"
+Framer
 Github
-MySQL
-HTML
-JavaScript
+JIRA
+Slack
+React
+Node.js
 Python
-SQL
-AWS"
+TypeScript
+AWS
+Docker
+OpenCV
+NumPy
+React Native
+Figma
+Notion
+Nest.js"
+"
+Framer
+Github
+JIRA
+Slack
+React
+Node.js
+Python
+TypeScript
+AWS
+Docker
+OpenCV
+NumPy
+React Native
+Figma
+Notion
+Nest.js"
+NaN
+"
+MySQL
+JavaScript
+Python"
+"
+Python
+SQL"
+NaN
+NaN
 "
 Hadoop
 iOS
@@ -229,175 +288,76 @@ Spring Framework"
 "
 JavaScript
 TypeScript
-HTML5
-CSS3
 React.js
+React Native
 Next.js"
-NaN
 "
-MySQL
-Java
-Kotlin
-JUnit
-JPA
-Spring Boot"
-NaN
-"
-Azure
-.NET
-Google Cloud Platform
-Hadoop
-Pytorch
-Tensorflow
-Java
-Python
-Shell
-SQL
-Google Analytics
-AWS
-ETL
-NoSQL
-VBA
-데이터 마트
-MSSQL"
-"
-Azure
-.NET
-Google Cloud Platform
-Hadoop
-Pytorch
-Tensorflow
-Java
-Python
-Shell
-SQL
-Google Analytics
-AWS
-ETL
-NoSQL
-VBA
-데이터 마트
-MSSQL"
-"
+Linux
+Node.js
 Python"
 NaN
 NaN
-"
-Kotlin
-Flutter
-WebRTC
-Coroutine
-Restful API"
-"
-Google Cloud Platform
-Hadoop
-Spark"
-"
-Google Cloud Platform
-Hadoop
-Spark"
-"
-Google Cloud Platform
-Hadoop
-Spark"
-"
-Git
-Java
-Python
-SQL
-소프트웨어 개발
-AWS
-Go
-C++
-프레젠테이션
-jQuery
-가상화
-Docker
-ElasticSearch
-Spring Framework
-서버 관리"
-NaN
 NaN
 "
-데이터 분석
-분석 서비스
-학술 연구
-학술 출판"
-"
-SAP
-Java
-SQL
-Spring Framework
-SAP ERP
-SAP 구현
-SAP SD
-SAP MM
-SAP FICO
-SAP FI
-SAP HR
-JSP 개발"
-"
-Python
-SQL
-Tableau
 AWS
-Spring Framework
-ML"
-"
-Github
-Azure
-Kotlin
-Python
-AWS
-Jenkins
-ETL
-Spring Framework
-GCP
-Golang
-Spring Boot
+BGP
 Kubernetes"
 "
+Google Cloud Platform
 Hadoop
+Spark"
+"
+Google Cloud Platform
+Hadoop
+Spark"
+"
 Linux
-MongoDB
-MySQL
-Spark
 Python
-AWS"
-NaN
-NaN
-NaN
-NaN
+SQL
+AWS
+Docker
+Shell Scripting
+RDBMS
+ElasticSearch"
 "
-Git
-Android
-iOS
-MySQL
-HTML
-JavaScript
+Linux
+Oracle
+Java
+Python
+ETL
+JSP
+ElasticSearch
+Spring Boot"
+"
+Java
 Kotlin
-Node.js
-PHP
 Python
-Swift
-TypeScript
+Scala
+SQL
 AWS
-Product Management 
-Spring Framework
-QA 엔지니어링"
+GCP"
 "
-GraphQL
-MySQL
-Node.js
+Android
+iOS
+Kotlin
+ObjectiveC
+Swift"
+"
+React
 Python
-TypeScript
+Kubernetes"
+"
+Java
+Python
 AWS
-Nest.js"
-NaN
+NodeJS
+Spring Boot"
 "
 Git
 Android
+Hadoop
 iOS
+Spark
 Java
 JavaScript
 Kotlin
@@ -412,57 +372,75 @@ Android Studio
 React.js
 Figma
 Kubernetes"
-"
-BitBucket
-Git
-JIRA
-Azure
-AWS
-DevOps
-ITIL
-Kubernetes"
 NaN
 "
-Linux
-Python"
+GitLab
+MySQL
+Python
+Jenkins
+Docker"
 "
+Hadoop
 Linux
-Python"
-"
-Confluence
-Git
-JIRA
+MongoDB
+MySQL
+Spark
 Python
 AWS"
 "
-Confluence
-Github
-JIRA
-Slack
-HTML
 Python
-Scala
 SQL
-ETL
-GCP
-GCPs"
-"
-Confluence
-Github
-JIRA
-Slack
-HTML
-Python
-Scala
-SQL
-ETL
-GCP
-GCPs"
+Apache Spark"
+NaN
+NaN
+NaN
 NaN
 "
-JavaScript
-HTML5
-Vue.JS"
+Github
+Flask
+C#
+Python
+C
+AWS
+Docker
+WPF
+PACS
+HL7
+DICOM"
+NaN
+NaN
+"
+Git
+Spark
+Python
+AWS
+Docker"
+"
+Android
+Kotlin
+Android Studio
+Flutter
+Restful API"
+"
+Android
+Kotlin
+Android Studio
+Flutter
+Restful API"
+"
+Android
+Kotlin
+Android Studio
+Flutter
+Restful API"
+NaN
+"
+Git
+MySQL
+Redis
+Node.js
+AWS
+GCP"
 "
 MySQL
 Oracle
@@ -479,27 +457,27 @@ RDBMS
 ElasticSearch
 Spring Framework"
 NaN
+NaN
+NaN
+NaN
 "
-Git
-Spark
-Python
-AWS
-Docker"
-"
-Git
-MySQL
-Redis
+React
 Node.js
-AWS
-GCP"
-"
-Github
-Pytorch
-Spark
 Python
-AWS
-Docker
-Kubernetes"
+Zapier
+Vue.JS"
+NaN
+"
+Confluence
+Git
+ObjectiveC
+Python
+Swift
+MVVM
+Apple Software
+React Native
+Figma
+Restful API"
 "
 C#
 Delphi
@@ -507,19 +485,170 @@ Kotlin
 C
 MFC"
 "
-Confluence
 Git
-JIRA
+Linux
+MySQL
+Redis
+Java
 Python
+SQL
+Docker
+Spring Framework"
+"
+Github
+Azure
+Kotlin
+Python
+AWS
+Jenkins
+ETL
+Spring Framework
+GCP
+Golang
+Spring Boot
+Kubernetes"
+NaN
+"
+Github
+JIRA
+MySQL
+HTML
+JavaScript
+Python
+SQL
 AWS"
 "
+Django
+AWS
+DBT
+FastAPI"
+"
 Confluence
-Git
 JIRA
+Java
+Kotlin
+Python"
+NaN
+"
+데이터 분석
+분석 서비스
+학술 연구
+학술 출판"
+NaN
+"
+C / C++
 Python
+SQL"
+"
+Confluence
+Github
+JIRA
+Slack
+Azure
+HTML
+Python
+Scala
+SQL
+AWS
+ETL
+GCP
+GCPs
+React.js
+Next.js"
+NaN
+NaN
+"
+React
+Java
+Python
+jQuery
+NodeJS"
+"
+Data Analysis
+SCM
+Product Management "
+"
+GraphQL
+MySQL
+JavaScript
+Node.js
+Python
+TypeScript
+AWS
+Nest.js"
+"
+Git
+Flask
+Google Cloud Platform
+Redis
+Python
+AWS
+Docker
+PostgreSQL
+Kubernetes"
+"
+Git
+Flask
+Google Cloud Platform
+Redis
+Python
+AWS
+Docker
+PostgreSQL
+Kubernetes"
+"
+Git
+Python
+SQL
+AWS"
+"
+Django
+Flask
+Linux
+MySQL
+Oracle
+NoSQL"
+"
+Git
+React
+CSS
+JavaScript
+TypeScript
 AWS"
 NaN
-NaN
+"
+Azure
+.NET
+Python
+Power BI
+ETL
+SSIS
+SSAS"
+"
+CAD
+Revit
+3D 모델링
+BIM
+3D 렌더링
+Photoshop Elements"
+"
+Hadoop
+MongoDB
+MySQL
+Spark
+Python
+R
+Tableau
+Jenkins
+PostgreSQL
+Neo4j"
+"
+Git
+Node.js
+Python
+SQL
+Docker
+PostgreSQL"
 "
 Git
 JIRA
@@ -532,54 +661,43 @@ OAuth
 Spring Boot
 Kubernetes
 Restful API"
-NaN
 "
-Django
-Flask
+GitLab
+CSS
+TypeScript
+React.js
+Next.js"
+"
+Java"
+"
+AWS"
+"
 Linux
+Python"
+"
+Linux
+Python"
+"
+Github
+MongoDB
+Python
+AWS"
+"
+Azure
+C / C++
+개발
+SharePoint"
+"
+Linux
+Oracle"
+"
+Linux
+Oracle"
+"
 MySQL
-Oracle
-NoSQL"
-"
-Flask
-React
 Python
-TypeScript
 AWS
-DNS
-Docker
-RDBMS
-PostgreSQL
-Spring Framework
-JPA
-Nginx
-DBT
-Spring Boot"
-"
-Flask
-React
-Python
-TypeScript
-AWS
-DNS
-Docker
-RDBMS
-PostgreSQL
-Spring Framework
-JPA
-Nginx
-DBT
-Spring Boot"
-"
-Android
-Java
-Kotlin"
-"
-Git
-Python
-SQL
-AWS
-GCP"
+NodeJS"
 "
 Linux
 보안
@@ -594,56 +712,3 @@ DLP
 보안 정책
 보안 관리
 보안 교육"
-"
-Java
-Kotlin
-Python
-Scala
-SQL
-AWS
-GCP"
-"
-Azure
-Linux
-AWS
-Cisco
-DNS
-Docker
-PaaS
-GCP
-Kubernetes"
-"
-AWS"
-"
-MySQL
-Python
-AWS
-NodeJS"
-"
-CAD
-Revit
-3D 모델링
-BIM
-3D 렌더링
-Photoshop Elements"
-"
-Linux
-MySQL
-React
-C / C++
-MFC"
-"
-Azure
-Hadoop
-Java
-JavaScript
-Python
-Scala
-AWS"
-"
-Linux
-MySQL
-Oracle
-Python
-NoSQL
-ETL 도구"
