@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 pd.set_option('display.max_rows', 10)
 pd.set_option('display.max_columns', None)
-path = 'C:\\VSC\\JJaemni\\CSV\\Task4\\'
+path = 'C:/VSC/JJaemni/CSV/Task4/'
 
 
 
@@ -66,22 +66,23 @@ def Jobplanet(btn, link_key):
     driver = webdriver.Chrome()
     driver.get('https://www.jobplanet.co.kr/job')
 
-    # 직종 클릭
-    time.sleep(1)
-    elem = driver.find_element(By.CLASS_NAME, 'jply_btn_sm.inner_text.jf_b2')
-    elem.click()
-    # 전체 직종 중 '데이터' 클릭
-    time.sleep(1)
-    elem = driver.find_element(By.XPATH, '//*[@id="occupation_level1_filter"]/div/div[2]/div[1]/div[1]/ul/li[6]/button')
-    elem.click()
-    # '데이터'에서 데이터 사이언티스트, 데이터 분석가, 데이터 엔지니어를 차례대로 클릭
-    time.sleep(1)
-    elem = driver.find_element(By.XPATH, f'//*[@id="occupation_level1_filter"]/div/div[2]/div[1]/div[2]/ul/li[{btn}]/label')
-    elem.click()
-    # '적용' 클릭
-    time.sleep(1)    
-    elem = driver.find_element(By.XPATH, '//*[@id="occupation_level1_filter"]/div/div[2]/div[2]/button[2]')
-    elem.click()
+    # # 직종 클릭
+    # time.sleep(1)
+    # elem = driver.find_element(By.CLASS_NAME, 'jply_btn_sm.inner_text.jf_b2')
+    # elem.click()
+    # # 전체 직종 중 '데이터' 클릭
+    # time.sleep(1)
+    # elem = driver.find_element(By.XPATH, '//*[@id="occupation_level1_filter"]/div/div[2]/div[1]/div[1]/ul/li[6]/button')
+    # elem.click()
+    # # '데이터'에서 데이터 사이언티스트, 데이터 분석가, 데이터 엔지니어를 차례대로 클릭
+    # time.sleep(1)
+    # elem = driver.find_element(By.XPATH, f'//*[@id="occupation_level1_filter"]/div/div[2]/div[1]/div[2]/ul/li[{btn}]')                                         
+    # elem.click()
+    # # '적용' 클릭
+    # time.sleep(1)    
+    # elem = driver.find_element(By.XPATH, '//*[@id="occupation_level1_filter"]/div/div[2]/div[2]/button[2]')
+    # elem.click()
+    time.sleep(10)
     scroll(driver)
 
 
