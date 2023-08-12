@@ -1,7 +1,7 @@
 import pandas as pd
 pd.set_option('display.max_rows', 10)
 pd.set_option('display.max_columns', None)
-path = 'C:\\VSC\\JJaemni\\CSV\\Task4\\'
+path = 'C:/VSC/JJaemni/CSV/Task4/'
 
 df = pd.read_csv(path + 'jobplanet.csv')
 
