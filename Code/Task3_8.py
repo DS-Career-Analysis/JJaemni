@@ -1,23 +1,23 @@
 import pandas as pd
 pd.set_option('display.max_rows', 10)
 pd.set_option('display.max_columns', None)
-path = 'C:\\VSC\\JJaemni\\CSV\\Task3\\'
+path = 'C:/VSC/JJaemni/CSV/Task3/'
 
-df = pd.read_csv(path + 'wanted.csv')
+df = pd.read_csv(path + 'wanted_dup.csv')
 
 skl_list = []
 for i in range(0, df.shape[0]):
 
     # 기술스택 ・ 툴 앞의 내용을 삭제
     text = df.Content[i]
-    if '기술스택 ・ 툴' in text:
-        skills_index = text.index('기술스택 ・ 툴')
+    if '\n기술스택 ・ 툴' in text:
+        skills_index = text.index('\n기술스택 ・ 툴')
         skills_text = text[skills_index:]
     else:
         skills_text = 'NaN'
 
     # 기술스택 ・ 툴 삭제
-    text_replace = skills_text.replace('기술스택 ・ 툴', '')
+    text_replace = skills_text.replace('\n기술스택 ・ 툴', '')
 
     # 리스트에 요소 추가
     skl_list.append(text_replace)
