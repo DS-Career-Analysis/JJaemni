@@ -19,4 +19,4 @@ print(f'중복 채용공고 제거 후, 채용공고 개수: {df_copy.shape}')
 print('---------------------------------------------')
 
 df_copy.reset_index(drop=True, inplace=True)
-df_copy.to_csv(path + 'wanted.csv', index=False, encoding='utf-8-sig')
+df_copy.to_csv(path + 'wanted_dup.csv', index=False, encoding='utf-8-sig')
